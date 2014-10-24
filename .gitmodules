@@ -1,0 +1,3 @@
+[submodule "\\cygwin\\home\\admin\\ragui_buildpack\\java-buildpack"]
+	path = \\cygwin\\home\\admin\\ragui_buildpack\\java-buildpack
+	url = C:\\cygwin\\home\\admin\\ragui_buildpack\\java-buildpack
